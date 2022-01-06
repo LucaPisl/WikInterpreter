@@ -9,7 +9,7 @@ PySimpleGUI:
 
 
 ## How to install:
-> git clone https://github.com/XenoKage/WikInterpreter && cd WikInterpreter && pip install -r requirements.txt
+> git clone https://github.com/XenoKage/WikInterpreter && cd WikInterpreter && pip install -r requirements.txt && chmod +x WikInterpreter
 
 
 ## Run the program:
