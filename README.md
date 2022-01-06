@@ -10,3 +10,9 @@ PySimpleGUI:
 
 ## How to install:
 > git clone https://github.com/XenoKage/WikInterpreter && cd WikInterpreter && pip install -r requirements.txt
+
+
+## Run the program:
+
+First, open the folder containing the .py file and then:
+>python WikInterpreter.py
