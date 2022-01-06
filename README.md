@@ -5,4 +5,4 @@ Dependencies:
 
 PySimpleGUI
 
-pip install PySimpleGUI
+> pip install PySimpleGUI
