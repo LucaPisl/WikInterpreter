@@ -9,7 +9,6 @@ def wikipedia_inter(strr):
     fnln = len(strr)
     try:
         while True:
-            #print(toretl)
             if index_count >= fnln:
                 break
             elif strr[index_count] == "[":
@@ -46,7 +45,7 @@ def wikipedia_inter(strr):
 
 layout = [[sg.Text("Hello from PySimpleGUI")], [sg.Button("OK")]]
 
-#sg.theme('DarkAmber')   # Add a touch of color
+
 # All the stuff inside your window.
 layout = [  [sg.Text('Welcome to WikInterpreter!', justification='center')],
             #[sg.Text('Enter your text:'),\
@@ -61,12 +60,11 @@ while True:
     event, values = window.read()
     if event == sg.WIN_CLOSED or event == 'Close' or event == 'Interpret!': # if user closes window or clicks cancel
         break
-    #print('You entered ', values[0])
+    
 
 window.close()
 
-#print(values)
-#print(values[0])
+
 
 wikival = wikipedia_inter(values[0])
 pwikival = len(wikival) + 10
