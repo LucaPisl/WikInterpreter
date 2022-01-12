@@ -40,5 +40,3 @@ This will produce a working binary for your OS with all the dependencies bundled
 
 ## Download existing binary:
 Go to [releases page](https://github.com/XenoKage/WikInterpreter/releases) and check if there is a working binary for your OS.
-
-google-site-verification: google0fc38f813222337e.html
