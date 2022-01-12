@@ -39,5 +39,5 @@ Lastly do
 This will produce a working binary for your OS with all the dependencies bundled. It is found in the `dist` folder. For any questions regarding pyinstaller see [here](https://github.com/pyinstaller/pyinstaller "Pyinstaller Github").
 
 ## Download existing binary:
-Go to releases page and check if there is a working binary for your OS.
+Go to [releases page](https://github.com/XenoKage/WikInterpreter/releases) and check if there is a working binary for your OS.
 
