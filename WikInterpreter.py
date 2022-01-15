@@ -44,8 +44,6 @@ def wikipedia_inter(strr):
     return (theret)
 
 
-layout = [[sg.Text("Hello from PySimpleGUI")], [sg.Button("OK")]]
-
 # All the stuff inside your window.
 layout = [[sg.Text('Welcome to WikInterpreter!', justification='center')],
           [sg.InputText(key= 'ttinput' ,right_click_menu=['&Edit', ['Copy', 'Paste', 'Select All']])],
