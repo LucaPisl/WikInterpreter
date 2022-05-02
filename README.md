@@ -14,7 +14,7 @@ pyperclip:
 > pip install pyperclip
 
 
-## How to install from source:
+## How to download from source:
 > git clone https://github.com/XenoKage/WikInterpreter && cd WikInterpreter && pip install -r requirements.txt && chmod +x WikInterpreter.py
 
 ## Run the program from source:
